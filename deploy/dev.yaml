@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/sound-chimera-457618-d7/locations/europe-west1-b/clusters/cluster-1
+  cluster: projects/sound-chimera-457618-d7/locations/europe-west1/clusters/cluster-1
 
