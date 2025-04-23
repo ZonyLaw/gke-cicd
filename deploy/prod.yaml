@@ -7,4 +7,4 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/sound-chimera-457618-d7/locations/europe-west1-b/clusters/cluster-2
+  cluster: projects/sound-chimera-457618-d7/locations/europe-west1/clusters/cluster-2
